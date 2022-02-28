@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Admiral Vantrump to the lords and burgamasters of Amsterdam, touching his late engagement with the English, and the account he renders to them thereof: with the states orders for the building of 60 new frigots; and the levying of the two hundreth penny throughout all Holland, for the maintaining of the war with England. Also, their new orders and instructions to Admiral De Witte, and the Admiralties, requiring them to put out to sea all the ships that are in their harbours. Likewise, the proceedings of the King of Denmark with the English resident; and a list of the ships of war set out to sea by him: with his orders for unlading the English ships detained there, and his design therein. Together with a narrative of the proceedings of the English at Legorn; a fight betwixt them and the Dutch near that place, and the event and successe thereof. Published according to order.</title>
+            <author>Tromp, Maarten Harpertsz., 1598-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95816</idno>
+            <idno type="STC">Wing V100</idno>
+            <idno type="STC">Thomason E689_22</idno>
+            <idno type="STC">ESTC R206947</idno>
+            <idno type="EEBO-CITATION">99866031</idno>
+            <idno type="PROQUEST">99866031</idno>
+            <idno type="VID">118290</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95816)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118290)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E689[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Admiral Vantrump to the lords and burgamasters of Amsterdam, touching his late engagement with the English, and the account he renders to them thereof: with the states orders for the building of 60 new frigots; and the levying of the two hundreth penny throughout all Holland, for the maintaining of the war with England. Also, their new orders and instructions to Admiral De Witte, and the Admiralties, requiring them to put out to sea all the ships that are in their harbours. Likewise, the proceedings of the King of Denmark with the English resident; and a list of the ships of war set out to sea by him: with his orders for unlading the English ships detained there, and his design therein. Together with a narrative of the proceedings of the English at Legorn; a fight betwixt them and the Dutch near that place, and the event and successe thereof. Published according to order.</title>
+                  <author>Tromp, Maarten Harpertsz., 1598-1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Alsop.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 15. 1652"; the 3 in the date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118290:1" rendition="simple:additions"/>
+            <p>A LETTER FROM Admiral Vantrump TO The Lords and Burgamaſters of Amſterdam, touching his late Engagement with the Engliſh, and the account he renders to them thereof: With the States Orders for the building of 60 new Frigots; and the levying of the <hi>Two hundreth penny</hi> throughout all Holland, for the maintaining of the War with England.</p>
+            <p>Alſo, Their new Orders and Inſtructions to Admiral De Witte, and the Admiralties, requiring them to put out to Sea all the ſhips that are in their Harbours.</p>
+            <p>Likewiſe, The proceedings of the King of Denmark with the Engliſh Reſident; And a Liſt of the ſhips of War ſet out to Sea by him: With his Orders for unlading the Engliſh ſhips detained there, and his Deſign therein.</p>
+            <p>Together with a Narrative of the proceedings of the Engliſh at Legorn; A fight betwixt them and the Dutch near that place, and the event and ſuc<g ref="char:EOLhyphen"/>ceſſe thereof.</p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>E. Alſop.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118290:2"/>
+            <pb n="3" facs="tcp:118290:2"/>
+            <head>THE PROCEEDINGS OF The King of Denmark, touching the Reſident of the Par<g ref="char:EOLhyphen"/>liament of England, and his Orders for unlading the Engliſh ſhips detained there.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Reſident of the Parliament of England, Mr. Bradſhaw, after many hazards in Denmark, and in his way out of it, at length arrived here in ſafety. The K. of the Danes notwithſtanding his promiſe to the Merchants and Sea men, that they ſhould have li<g ref="char:EOLhyphen"/>berty to charge and diſpoſe of their goods, was pleaſed to put guards upon all the detained ſhips, not permitting the Engliſh to have any further power of any thing: he hath alſo ordered the ſpeedy unlading of them, under pre<g ref="char:EOLhyphen"/>tence they have ammunition aboard, but really (it is thought) to make men of war for his own uſe, of 5 or 6 of the beſt of them.</p>
+            <p>The Kings officers pretended all done, onely to ſecure
+<pb n="4" facs="tcp:118290:3"/>the Goods from being imbezelled by the Sea men, and with intent they ſaid, to deal with them, as the State of England ſhould deal with theirs.</p>
+            <p>As concerning the Reſident himſelf, he hap a very ha<g ref="char:EOLhyphen"/>zardous time of it, from his firſt comming to Copenha<g ref="char:EOLhyphen"/>gen. Much was diſcovered of deſignings againſt his life, and the lives of his company, by wicked men; inſomuch that he was neceſſitated to demand a guard of the King of Denmark to go along with him through his Country to<g ref="char:EOLhyphen"/>ward Hamburgh. The King ſeemed much diſcontent that he ſhould demand a guard, but yet did grant it at the Reſidents own Charge, ſending eight of his own Life-guard to him, with warrant under the Kings own hand and ſeal, to convoy him and his company ſafe to Ham<g ref="char:EOLhyphen"/>burgh.</p>
+            <p>With this protection the Reſident ſet forth from Co<g ref="char:EOLhyphen"/>penhagen the tenth of February, and the next day he paſ<g ref="char:EOLhyphen"/>ſed over the firſt Belt or Water, and afterward croſſing the Belt again, he came into the Duke of Holſteins Country.</p>
+            <p>He had with him in Company above twenty Maſters and Engliſh Seamen; and having put himſelf into the Kings more ſpeciall protection, all means was uſed that could bee for ſafety, from the hands of bloudy men.</p>
+            <p>The poor Engliſh Maſters and Seamen being turned out of all, came with a pittifull cry to the Reſident to re<g ref="char:EOLhyphen"/>lieve them ſome way, that they might get home, leſt after the loſſe of their eſtates they ſhould ſtarve in that coun<g ref="char:EOLhyphen"/>try, or be forced to ſerve againſt their own. Whereupon, he took order to relieve 60 of them with food at Copen<g ref="char:EOLhyphen"/>hagen, till they can get away hither by ſea to Lubeck. About twenty of them he brought along with him over land.</p>
+            <pb n="5" facs="tcp:118290:3"/>
+            <p> It is ſuppoſed, that the ſhips detained at Copenhagen, are al by this time unladen, and thoſe made uſe of, that are fit to ſerve againſt England.</p>
+            <p>What preparations are made by the King of Den<g ref="char:EOLhyphen"/>mark, you may ſee by this incloſed Catalogue of his ſhipping.</p>
+            <closer>
+               <dateline>Lubeck, <date>Febr. 25.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <table>
+                     <head>Twenty ſail of the King of Denmarks ſhips.</head>
+                     <row>
+                        <cell role="label">Ports</cell>
+                        <cell role="label">Guns</cell>
+                        <cell role="label">Men.</cell>
+                     </row>
+                     <row>
+                        <cell>94</cell>
+                        <cell>80</cell>
+                        <cell>425</cell>
+                     </row>
+                     <row>
+                        <cell>100</cell>
+                        <cell>86</cell>
+                        <cell>425</cell>
+                     </row>
+                     <row>
+                        <cell>90</cell>
+                        <cell>74</cell>
+                        <cell>330</cell>
+                     </row>
+                     <row>
+                        <cell>48</cell>
+                        <cell>48</cell>
+                        <cell>300</cell>
+                     </row>
+                     <row>
+                        <cell>50</cell>
+                        <cell>42</cell>
+                        <cell>230</cell>
+                     </row>
+                     <row>
+                        <cell>52</cell>
+                        <cell>44</cell>
+                        <cell>230</cell>
+                     </row>
+                     <row>
+                        <cell>60</cell>
+                        <cell>44</cell>
+                        <cell>280</cell>
+                     </row>
+                     <row>
+                        <cell>52</cell>
+                        <cell>40</cell>
+                        <cell>195</cell>
+                     </row>
+                     <row>
+                        <cell>42</cell>
+                        <cell>36</cell>
+                        <cell>234</cell>
+                     </row>
+                     <row>
+                        <cell>48</cell>
+                        <cell>44</cell>
+                        <cell>280</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>30</cell>
+                        <cell>150</cell>
+                     </row>
+                     <row>
+                        <cell>54</cell>
+                        <cell>40</cell>
+                        <cell>226</cell>
+                     </row>
+                     <row>
+                        <cell>44</cell>
+                        <cell>34</cell>
+                        <cell>82</cell>
+                     </row>
+                     <row>
+                        <cell>50</cell>
+                        <cell>34</cell>
+                        <cell>150</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>30</cell>
+                        <cell>92</cell>
+                     </row>
+                     <row>
+                        <cell>34</cell>
+                        <cell>30</cell>
+                        <cell>150</cell>
+                     </row>
+                     <row>
+                        <cell>42</cell>
+                        <cell>34</cell>
+                        <cell>82</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>30</cell>
+                        <cell>80</cell>
+                     </row>
+                     <row>
+                        <cell>36</cell>
+                        <cell>32</cell>
+                        <cell>84</cell>
+                     </row>
+                     <row>
+                        <cell>38</cell>
+                        <cell>30</cell>
+                        <cell>84</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">The number of Guns is 868. Men 4109</cell>
+                     </row>
+                  </table>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>A Letter from Amsterdam.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>GReat joy hath been here for the ſafe return of the ſixty fail of Merchat men, which came from the parts about Rohan, and gave the Engliſh Fleet the ſlip at their firſt comming out. They had 10 men of War for their Convoy, the abſence of which rendred Admiral Trump ſo much the weaker; and this is made a fault by many, that thoſe men of War ſhould be diſmiſ<g ref="char:EOLhyphen"/>ſed for a convoy, it being againſt Orders. Nevertheleſſe the joy conceived for the return of the 60 Merchants, is ſome allay to that diſpleaſure. The work of building
+<pb n="6" facs="tcp:118290:4"/>ſhips goes on apace, an agreement being made for 60 Fri<g ref="char:EOLhyphen"/>gots, to be ready in 4 moneths. And the Province of Hol<g ref="char:EOLhyphen"/>land hath moved the other Provinces to furniſh out their reſpective ſhares in ready money, for the making up of that ſum which was agreed on for the ſetting forth the ſhips. Holland it ſelf hath, for this enſuing year, Order<g ref="char:EOLhyphen"/>ed a Levie of the Two hundreth penny toward defraying the charge of their Sea undertakings. The Eaſt Indie com<g ref="char:EOLhyphen"/>pany of this Town are to make ready and ſet out for the States ſervice, 6 men of War well appointed.</p>
+            <p>Van Trump hath ſent a Letter to the Lords and Bur<g ref="char:EOLhyphen"/>gamaſters of this Town, giving them an account of the late Fight, alledging that he miſſeth onely nine men of war, but that all their Merchant men are in ſafety, and how that he lay betwixt Calis and Dunkirk to attend the motion of the Engliſh Fleet, if they came that way. It is boaſted here, that they have taken from you the ſhip cal<g ref="char:EOLhyphen"/>led the Proſperous, of 50 guns; and the general cry here, is, that the Engliſh have had the worſt; and yet ſome are at a ſtand, becauſe they ſee but few Merchant-men yet ap<g ref="char:EOLhyphen"/>pearing.</p>
+            <p>The States had news out of Zealand, that divers Mer<g ref="char:EOLhyphen"/>chant men were come in there from Trumps fleet, which affirms that there had been a notable engagement for 2 days time. At length news was brought from Scheveling that they eſpied about 60 ſail making toward the Texel, which they ſuppoſed to be Merchant-men returned; but not one word of any ſhip of war as yet returned; which is interpreted as an ill Omen by their Lordſhips, who thereupon have iſſued out orders for the ſending forth with all ſpeed thoſe 40 ſhips under he Wit, which were deſigned for an union with Trump, and the Admiralties are required immediately to put out to ſea all the ſhips that are in their harbours. Which gives great cauſe of
+<pb n="7" facs="tcp:118290:4"/>ſuſpicion, all is not ſo well as was given out among the people.</p>
+            <p>Upon the earneſt requeſt of the Merchant-ſtrangers who were intereſſed in thoſe Merchantmen laden with Pitch, Tar, Hemp, <hi>&amp;c.</hi> which had been ſeized in the Sound, and brought in hither by the men of war of this State, it hath been ordered by the States General, that thoſe ſhips be releaſed, upon condition, that hereafter thoſe ſhips which ſhall be laden with contreband goods, do not preſume to put to ſea without it be with a general convoy; by which way they will be able to ſee that none of them be tranſported to England. The Colledges of the admiralty are charged likewiſe to take order that ſearch be made in all fiſher boats; information being given that they ſteal out with contreband goods, and other prohibi<g ref="char:EOLhyphen"/>ted commodities, which its ſaid they carry over into Eng<g ref="char:EOLhyphen"/>land. Six men of War, and 2 ſmall Frigots, are to be ſent to Braſil, for relief of the Weſt Indy company.</p>
+            <p>It hath been moved to the States by the Reſident of the K. of France, that all Merchants of this State may be pro<g ref="char:EOLhyphen"/>hibited ſtrictly from ſending any Corn, or contreband commodities to Bourdeaux which city his maſter intends to diſtreſſe both by ſea and land, wherein it is conceived they will gratifie the French K. having endeavoured ſo far already to oblige him, that order is given to Lieut. Admiral Trump, to uſe his utmoſt endeavour to ſeiz the ſhips of war belonging to the Pr. of Conde and his adhe<g ref="char:EOLhyphen"/>rents; and to deliver up the ſame to the D. of Vendoſm Admiral of France.</p>
+            <closer>
+               <dateline>Amſterdam <date>March 8. ſtilo novo. 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="proceedings_of_the_English_at_Leghorn">
+            <pb n="8" facs="tcp:118290:5"/>
+            <p>The news from our ſhips at Legorn and Portolongone, is, That there lately came into the Road one that brought word, that our Frigots have been in fight with ſix Fle<g ref="char:EOLhyphen"/>miſh ſhips, who had a hot andd ſharp diſpute, which con<g ref="char:EOLhyphen"/>tinued a good ſpace; but in fine, our Frigots together with the Harry Bonaventure, took one of their Merchant ſhips, and carried her into Meſſina; ſhe is a ſhip of about 400 tuns, and 26 or 28 Guns, but we know not yet what <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er lading was. The 30 of Jan. the Admiral of the Hol<g ref="char:EOLhyphen"/>landers and one man of war more (there being then but 7 in the Road) ſet ſail thence, and ſtood towards the South<g ref="char:EOLhyphen"/>ward, and in the night the ſaid ſhips ran aſhore a ledge of rocks, lying 6 leagues to Southward of the road, ſo that the Admiral is caſtaway, but the other is got off again. Febr. 1. our men made haſt to get Ballaſt aboard, think<g ref="char:EOLhyphen"/>to have gone out the ſecond, and to have fought the Hol<g ref="char:EOLhyphen"/>landers, but that night there came 5 men of war more, ſo that then there were eleven men of war in the Road. The next day Admiral Badiley came from Longone to Le<g ref="char:EOLhyphen"/>gorn, in hope to have gained an opportunity, but too late. The Thomas Bonaventure, Mary-roſe, William, and Tho<g ref="char:EOLhyphen"/>mas are at Port Ferray to get out their goods, and to make ready again, but the Paragon, Capt. Badileys ſhip, is at Longone again, the Deputy-purſer whereof, and the Chyrurgian of the Bonaventure are dead.</p>
+            <closer>
+               <dateline>Aboard the Leopard in Legorn-mole, <date>Febr. 4.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
